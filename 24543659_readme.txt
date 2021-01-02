@@ -1,0 +1,2 @@
+1. BJNL_SM is the pdf of the supplementary materials to the manuscript
+2. bjnl.zip is a matlab toolbox implementing the method
